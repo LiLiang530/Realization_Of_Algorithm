@@ -5,3 +5,5 @@
 Array_Flat.js =>  Javascript 中 Array.flat() 方法的实现（基于递归）
 
 Quick_Sort.js =>  Javascript 实现快速排序（递归版）
+
+Get_Prime.js =>  Javascript 实现质数按顺序自动生成
